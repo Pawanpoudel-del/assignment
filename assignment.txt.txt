@@ -1,0 +1,28 @@
+sign up by entering details and email 
+
+login with email
+
+header section with search, cart, logo, tab where all courses available
+
+adding courses to cart feature
+
+popular courses on home page
+
+on footer language selection, contacts and more.........
+
+another page catagories of courses
+
+another page feature catagories of courses with more button on end
+
+another page becoming a instructure page where you can click on button and move to another page of teacher dashboard
+
+on teacher dashboard show teacher details like specialities
+
+on clicking on course display add to cart and bye now 
+
+after clicing on by now send links or courses to the personal main as logged in main
+
+sharing courses through various social medias like fb, insta, tweeter
+
+
+
