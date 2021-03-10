@@ -1,12 +1,10 @@
-sign up by entering details and email 
 
-login with email
 
 header section with search, cart, logo, tab where all courses available
 
 adding courses to cart feature
 
-popular courses on home page
+
 
 on footer language selection, contacts and more.........
 
